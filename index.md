@@ -23,7 +23,7 @@ page_sections:
   headline: "<strong>Privasee AI</strong>"
   content: The future of AI is transparent and trustworthy, that's where we come in.
   cta:
-    enabled: true
+    enabled: false
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
