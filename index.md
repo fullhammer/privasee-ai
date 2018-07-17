@@ -10,7 +10,7 @@ page_sections:
   - link: "/"
     link_text: Home
   - link: "#"
-    link_text: Features
+    link_text: About Us
   - link: "#"
     link_text: Pricing
   - link: "#"
@@ -20,9 +20,8 @@ page_sections:
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  headline: "<strong>Privasee AI</strong>"
+  content: The future of AI is transparent and trustworthy, that's where we come in.
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
@@ -75,6 +74,6 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
----
 
+---
 foo bar
