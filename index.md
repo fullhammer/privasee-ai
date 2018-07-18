@@ -27,7 +27,7 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
+    image: "/uploads/2018/07/18/riccardo-annandale-140624-unsplash.jpg"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
@@ -38,7 +38,7 @@ page_sections:
     privacy by design and focus on accuracy for everyone. We are building AI with
     the whole world in mind.  '
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
+    image: "/uploads/2018/07/18/martin-shreder-349256-unsplash.jpg"
     alt_text: uBuild Blocks Mock-Up
 - template: content-feature
   block: feature-1
@@ -47,7 +47,7 @@ page_sections:
   content: 'Our software can do a lot of things, from recognizing emotions, brands
     and demographics of a crowd, to monitoring for suspicious activity. '
   media:
-    image: "/uploads/2018/06/21/edit.gif"
+    image: "/uploads/2018/07/18/nick-fewings-569717-unsplash.jpg"
     alt_text: Customize Blocks
 - template: simple-footer
   block: footer-1
