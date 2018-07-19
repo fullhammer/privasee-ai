@@ -31,5 +31,10 @@ page_sections:
     Information) is ever seen or stored by us.
   media:
     image: "/uploads/2018/07/18/arturo-castaneyra-396424-unsplash.jpg"
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2018/07/19/member_noah.jpg"
+    caption: Noah Hammer- CEO
 
 ---
