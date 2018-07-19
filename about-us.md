@@ -17,7 +17,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2018/07/18/tim-gouw-102427-unsplash.jpg"
-  headline: Born and Built in Toronto
+  headline: Proudly Built in Toronto
   content: 'Widely considered the most multicultural city in the World with over 140+
     languages spoken, and half of the residents born outside of Canada. Being surrounded
     by so many cultures is one of the reasons we are building AI with diversity as
