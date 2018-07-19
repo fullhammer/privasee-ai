@@ -34,7 +34,7 @@ page_sections:
 - template: 2-column-media-element
   block: media-2
   image_1:
-    image: "/uploads/2018/07/19/member_noah-1.jpg"
+    image: "/uploads/2018/07/19/member_noah-2.jpg"
     caption: Noah Hammer- Co-Founder
 
 ---
