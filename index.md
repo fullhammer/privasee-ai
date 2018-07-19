@@ -11,10 +11,8 @@ page_sections:
     link_text: Home
   - link: "#"
     link_text: About Us
-  - link: "#"
-    link_text: Pricing
-  - link: "#"
-    link_text: Team
+  - link: https://www.privaseeai.com/demo
+    link_text: Demo
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
     button_text: Download
