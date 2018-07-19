@@ -21,6 +21,5 @@ page_sections:
     Information) is ever seen or stored by us.
   media:
     image: "/uploads/2018/07/18/arturo-castaneyra-396424-unsplash.jpg"
-published: false
 
 ---
