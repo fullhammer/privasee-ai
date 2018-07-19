@@ -9,7 +9,7 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: "#"
+  - link: https://www.privaseeai.com/about-us
     link_text: About Us
   - link: https://www.privaseeai.com/demo
     link_text: Demo
