@@ -35,6 +35,6 @@ page_sections:
   block: media-2
   image_1:
     image: "/uploads/2018/07/19/member_noah.jpg"
-    caption: Noah Hammer- CEO
+    caption: Noah Hammer- Co-Founder
 
 ---
