@@ -12,6 +12,15 @@ page_sections:
     link_text: About Us
   - link: https://www.privaseeai.com/demo
     link_text: Demo
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: About Us
+  content: Here at Privasee AI we are building Facial Detection for customer insights
+    in the physical world. Our systems are anonymous and not PII (Personally Identifiable
+    Information) is ever seen or stored by us.
+  media:
+    image: "/uploads/2018/07/18/arturo-castaneyra-396424-unsplash.jpg"
 published: false
 
 ---
